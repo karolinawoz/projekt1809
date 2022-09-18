@@ -1,1 +1,1 @@
-# projekt1809
+print ("Cześć wszystkim!")
